@@ -690,6 +690,9 @@ body, button, input {
   /* Contact Us */
   .app-contact {
     text-decoration: none;
+    margin-top: auto;
+    font-size: 10px;
+    color: #888;
   }
   /* Animated Welcome Text */
   .hidden {
